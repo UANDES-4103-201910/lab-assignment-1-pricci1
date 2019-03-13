@@ -58,3 +58,8 @@ For example, Ajax makes use of this API to send and recieve data asynchronously,
 ### At what moment were these files loaded by the web browser?
 In the order of appearence in the HTML, or when called by some script.
 
+## 4. Security
+
+|  Certificate Issuer | Expires on |
+|--|--|
+| COMODO CA Limited | Wednesday, August 21, 2019 at 7:59:59 PM |
